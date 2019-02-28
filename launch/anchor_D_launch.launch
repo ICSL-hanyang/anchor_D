@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="anchor_D" type="anchor_D.py" name="anchor_D_node" output="screen">
+	</node>
+</launch>
